@@ -1,0 +1,15 @@
+# Week 2 – Lab Notes
+
+## Windows Server VM
+- Name: Windows_Server
+- RAM: 4096 MB
+- CPU: 2
+- Disk: 50 GB
+- Network: NAT
+
+## Ubuntu Server VM
+- Name: Ubuntu_Server
+- RAM: 2048 MB
+- CPU: 2
+- Disk: 30 GB
+- Network: NAT
